@@ -1,0 +1,25 @@
+
+/* style.css */
+
+form {
+          max-width: 100%;
+          margin: auto;
+          padding: 20px;
+          border: 1px solid #ccc;
+          border-radius: 10px;
+        }
+        form label {
+          display: block;
+          margin-bottom: 8px;
+          font-weight: bold;
+        }
+        form input {
+          width: 100%;
+          padding: 8px;
+          margin-bottom: 15px;
+          border: 1px solid #ccc;
+          border-radius: 5px;
+        }
+
+       
+        
